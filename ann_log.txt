@@ -1,0 +1,94 @@
+Training set: 50000
+Minibatch size: 10
+Eta: 7.5
+
+Finished epoch 1
+  Accuracy: validation -> 0.9327
+
+Finished epoch 2
+  Accuracy: validation -> 0.9235
+
+Finished epoch 3
+  Accuracy: validation -> 0.9408
+
+Finished epoch 4
+  Accuracy: validation -> 0.9430
+
+Finished epoch 5
+  Accuracy: validation -> 0.9467
+
+Finished epoch 6
+  Accuracy: validation -> 0.9457
+
+Finished epoch 7
+  Accuracy: validation -> 0.9452
+
+Finished epoch 8
+  Accuracy: validation -> 0.9451
+
+Finished epoch 9
+  Accuracy: validation -> 0.9449
+
+Finished epoch 10
+  Accuracy: validation -> 0.9445
+
+Finished epoch 11
+  Accuracy: validation -> 0.9444
+
+Finished epoch 12
+  Accuracy: validation -> 0.9439
+
+Finished epoch 13
+  Accuracy: validation -> 0.9438
+
+Finished epoch 14
+  Accuracy: validation -> 0.9439
+
+Finished epoch 15
+  Accuracy: validation -> 0.9439
+
+Finished epoch 16
+  Accuracy: validation -> 0.9438
+
+Finished epoch 17
+  Accuracy: validation -> 0.9438
+
+Finished epoch 18
+  Accuracy: validation -> 0.9438
+
+Finished epoch 19
+  Accuracy: validation -> 0.9438
+
+Finished epoch 20
+  Accuracy: validation -> 0.9437
+
+Finished epoch 21
+  Accuracy: validation -> 0.9437
+
+Finished epoch 22
+  Accuracy: validation -> 0.9437
+
+Finished epoch 23
+  Accuracy: validation -> 0.9438
+
+Finished epoch 24
+  Accuracy: validation -> 0.9438
+
+Finished epoch 25
+  Accuracy: validation -> 0.9438
+
+Finished epoch 26
+  Accuracy: validation -> 0.9438
+
+Finished epoch 27
+  Accuracy: validation -> 0.9438
+
+Finished epoch 28
+  Accuracy: validation -> 0.9438
+
+Finished epoch 29
+  Accuracy: validation -> 0.9438
+
+Finished epoch 30
+  Accuracy: validation -> 0.9438
+
