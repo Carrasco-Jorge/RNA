@@ -17,9 +17,13 @@ test = np.array(load_data("data/preprocessed/test.gz"))
 # Load training info
 training_info = load_data("data/training_info.csv",1)
 
+# Hyper params
+eta = 7.5
+mu = 0.9
+
 # Visualization
-plot_cost(training_info, plot_training=True, title="eta = 7.5")
-plot_accuracy(training_info, plot_training=True, title="eta = 7.5")
+plot_cost(training_info, plot_training=True, title=f"eta = {eta}, mu = {mu}")
+plot_accuracy(training_info, plot_training=True, title=f"eta = {eta}, mu = {mu}")
 
 # Test accuracy
 cost, accuracy = network.evaluate(test, 10)
