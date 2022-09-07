@@ -1,6 +1,7 @@
 import pickle
 #from src.network import Network
-from src.network2 import Network
+#from src.network2 import Network
+from src.network3 import Network
 from src.saveload import load_data_bundle, save_data
 
 # 28 x 28 pix ==> 784 inputs
@@ -16,8 +17,8 @@ network = Network([784, 30, 10])
 # Begin training
 epochs = 30
 batch_size = 10
-eta = 7.5
-mu = 0.9
+eta = 0.5
+mu = 0.8
 
 train_cost, test_cost, train_acc, test_acc = network.SGD(training,
                               epochs=epochs,

@@ -1,95 +1,96 @@
+CrossEntropy
 Training set: 50000
-Mnibatch size: 10
-Eta: 7.5
-Mu: 0.9
+Minibatch size: 10
+Eta: 0.5
+Mu: 0.8
 
 Finished epoch 1
-  Accuracy: validation -> 0.9150
+  Accuracy: validation -> 0.9401
 
 Finished epoch 2
-  Accuracy: validation -> 0.9347
+  Accuracy: validation -> 0.9414
 
 Finished epoch 3
-  Accuracy: validation -> 0.9317
+  Accuracy: validation -> 0.9424
 
 Finished epoch 4
-  Accuracy: validation -> 0.9322
+  Accuracy: validation -> 0.9297
 
 Finished epoch 5
-  Accuracy: validation -> 0.9348
+  Accuracy: validation -> 0.9425
 
 Finished epoch 6
-  Accuracy: validation -> 0.9344
+  Accuracy: validation -> 0.9405
 
 Finished epoch 7
-  Accuracy: validation -> 0.9350
+  Accuracy: validation -> 0.9416
 
 Finished epoch 8
-  Accuracy: validation -> 0.9350
+  Accuracy: validation -> 0.9410
 
 Finished epoch 9
-  Accuracy: validation -> 0.9354
+  Accuracy: validation -> 0.9398
 
 Finished epoch 10
-  Accuracy: validation -> 0.9347
+  Accuracy: validation -> 0.9398
 
 Finished epoch 11
-  Accuracy: validation -> 0.9347
+  Accuracy: validation -> 0.9392
 
 Finished epoch 12
-  Accuracy: validation -> 0.9343
+  Accuracy: validation -> 0.9386
 
 Finished epoch 13
-  Accuracy: validation -> 0.9342
+  Accuracy: validation -> 0.9381
 
 Finished epoch 14
-  Accuracy: validation -> 0.9341
+  Accuracy: validation -> 0.9374
 
 Finished epoch 15
-  Accuracy: validation -> 0.9341
+  Accuracy: validation -> 0.9366
 
 Finished epoch 16
-  Accuracy: validation -> 0.9342
+  Accuracy: validation -> 0.9366
 
 Finished epoch 17
-  Accuracy: validation -> 0.9343
+  Accuracy: validation -> 0.9370
 
 Finished epoch 18
-  Accuracy: validation -> 0.9342
+  Accuracy: validation -> 0.9372
 
 Finished epoch 19
-  Accuracy: validation -> 0.9342
+  Accuracy: validation -> 0.9367
 
 Finished epoch 20
-  Accuracy: validation -> 0.9341
+  Accuracy: validation -> 0.9363
 
 Finished epoch 21
-  Accuracy: validation -> 0.9341
+  Accuracy: validation -> 0.9361
 
 Finished epoch 22
-  Accuracy: validation -> 0.9341
+  Accuracy: validation -> 0.9363
 
 Finished epoch 23
-  Accuracy: validation -> 0.9341
+  Accuracy: validation -> 0.9361
 
 Finished epoch 24
-  Accuracy: validation -> 0.9341
+  Accuracy: validation -> 0.9361
 
 Finished epoch 25
-  Accuracy: validation -> 0.9341
+  Accuracy: validation -> 0.9361
 
 Finished epoch 26
-  Accuracy: validation -> 0.9341
+  Accuracy: validation -> 0.9357
 
 Finished epoch 27
-  Accuracy: validation -> 0.9341
+  Accuracy: validation -> 0.9357
 
 Finished epoch 28
-  Accuracy: validation -> 0.9341
+  Accuracy: validation -> 0.9360
 
 Finished epoch 29
-  Accuracy: validation -> 0.9340
+  Accuracy: validation -> 0.9359
 
 Finished epoch 30
-  Accuracy: validation -> 0.9340
+  Accuracy: validation -> 0.9358
 

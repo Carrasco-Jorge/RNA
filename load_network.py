@@ -1,6 +1,6 @@
 import numpy as np
 import pickle
-from src.network import Network
+from src.network3 import Network
 from src.saveload import load_data
 from src.plot import plot_cost, plot_accuracy
 
@@ -18,8 +18,8 @@ test = np.array(load_data("data/preprocessed/test.gz"))
 training_info = load_data("data/training_info.csv",1)
 
 # Hyper params
-eta = 7.5
-mu = 0.9
+eta = 0.5
+mu = 0.8
 
 # Visualization
 plot_cost(training_info, plot_training=True, title=f"eta = {eta}, mu = {mu}")
